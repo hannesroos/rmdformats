@@ -7,7 +7,7 @@
 
 This R package provides ready-to-use HTML output formats and templates for
 RMarkdown documents. The goal is to produce clean documents "out of the box",
-with or without the RStudio IDE.
+with or without the RStudio IDE. 
 
 ## Formats gallery
 
